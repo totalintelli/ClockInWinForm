@@ -1,0 +1,9 @@
+E:\Projects\ClockInWinForm\ClockInWinForm\bin\Debug\ClockInWinForm.exe.config
+E:\Projects\ClockInWinForm\ClockInWinForm\bin\Debug\ClockInWinForm.exe
+E:\Projects\ClockInWinForm\ClockInWinForm\bin\Debug\ClockInWinForm.pdb
+E:\Projects\ClockInWinForm\ClockInWinForm\obj\Debug\ClockInWinForm.csprojResolveAssemblyReference.cache
+E:\Projects\ClockInWinForm\ClockInWinForm\obj\Debug\ClockInWinForm.Form1.resources
+E:\Projects\ClockInWinForm\ClockInWinForm\obj\Debug\ClockInWinForm.Properties.Resources.resources
+E:\Projects\ClockInWinForm\ClockInWinForm\obj\Debug\ClockInWinForm.csproj.GenerateResource.Cache
+E:\Projects\ClockInWinForm\ClockInWinForm\obj\Debug\ClockInWinForm.exe
+E:\Projects\ClockInWinForm\ClockInWinForm\obj\Debug\ClockInWinForm.pdb
